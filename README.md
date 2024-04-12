@@ -4,7 +4,7 @@ External UI for the exploit krampus
 ## Features
 - Easy Integration
 - Close Roblox
-- Correct **wss://loader.live** authentication (you won't get ratelimited)
+- Correct **wss://acedia.gg** authentication (you won't get ratelimited)
 
 ## Pre-builds
 [Beta](https://github.com/NotDSF/KrampusUI/releases/tag/beta-v1.0.2)
